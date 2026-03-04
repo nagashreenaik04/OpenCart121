@@ -1,0 +1,62 @@
+17:54:16.671 [main] INFO  testCases.TC002_LoginTest - Providing login credentials...
+18:11:37.826 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml"
+18:11:38.284 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml
+
+18:11:43.062 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ***
+18:11:44.056 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+18:11:44.607 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:11:44.616 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:11:47.309 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+18:11:47.371 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+18:11:51.043 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:11:51.175 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account link
+18:11:51.489 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+18:11:51.493 [main] INFO  testCases.TC002_LoginTest - Providing login credentials...
+18:14:42.416 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\test-output\testng-failed.xml"
+18:14:42.722 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\test-output\testng-failed.xml
+
+18:14:47.006 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:14:47.201 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account link
+18:14:47.532 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+18:14:47.535 [main] INFO  testCases.TC002_LoginTest - Providing login credentials...
+18:14:48.921 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+11:19:55.738 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml"
+11:19:56.176 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml
+
+11:21:17.477 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml"
+11:21:17.835 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml
+
+11:31:40.770 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml"
+11:31:41.116 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml
+
+11:31:46.853 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ***
+11:31:47.042 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+11:31:47.451 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+11:31:47.472 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:31:49.728 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+11:31:49.783 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+11:31:52.704 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+11:31:53.421 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account link
+11:31:53.741 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+11:31:53.758 [main] INFO  testCases.TC002_LoginTest - Providing login credentials...
+11:31:55.002 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+11:33:47.067 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml"
+11:33:47.877 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml
+
+11:36:26.005 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml"
+11:36:26.355 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml
+
+11:51:33.043 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml"
+11:51:33.399 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml
+
+11:51:37.913 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ***
+11:51:38.458 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+11:51:38.887 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link

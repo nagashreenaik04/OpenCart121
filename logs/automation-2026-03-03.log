@@ -1,0 +1,54 @@
+15:30:22.072 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:30:22.109 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:30:22.113 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:30:22.118 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:30:22.140 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:30:22.141 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:30:22.289 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:30:22.317 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT...
+15:30:22.351 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT...
+15:30:22.398 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT...
+15:30:22.429 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT...
+15:30:22.460 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT...
+15:31:28.504 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\crossbrowsertesting.xml"
+15:31:28.828 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\crossbrowsertesting.xml
+
+15:31:32.565 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ***
+15:31:32.775 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+15:31:33.324 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:31:33.333 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:31:35.523 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+15:31:35.617 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+15:31:37.336 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:31:37.345 [main] INFO  testCases.TC002_LoginTest - Login Failed...
+15:32:42.620 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml"
+15:32:43.026 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml
+
+15:32:43.487 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ***
+15:32:43.609 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:32:43.611 [main] INFO  testCases.TC002_LoginTest - Login Failed...
+15:37:51.423 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml"
+15:37:51.752 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\master.xml
+
+15:38:08.741 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ***
+15:38:09.057 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+15:38:09.918 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:38:09.925 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:38:11.970 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+15:38:12.052 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+15:38:19.941 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:38:20.194 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account link
+15:38:20.683 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+15:38:20.685 [main] INFO  testCases.TC002_LoginTest - Providing login credentials...
+15:38:22.358 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:38:42.294 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\crossbrowsertesting.xml"
+15:38:42.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspace\HybridFrameworkProjects\OpenCart121\crossbrowsertesting.xml
+
+15:38:46.971 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest ***
+15:38:47.220 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+15:38:47.797 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:38:47.806 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
